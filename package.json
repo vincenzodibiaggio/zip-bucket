@@ -42,7 +42,7 @@
     "istanbul": "^0.4.5",
     "mocha": "^4.0.1",
     "pipe-to-storage": "^0.8.2",
-    "should": "^13.1.2",
+    "should": "^13.2.0",
     "verify-bucket-md5": "^0.4.0",
     "verify-fsdir-md5": "^0.2.0"
   }
