@@ -32,7 +32,7 @@
     "mv": "^2.1.1",
     "p-each-series": "^1.0.0",
     "promise-retry": "^1.1.1",
-    "uuid": "^3.0.1"
+    "uuid": "^3.2.1"
   },
   "devDependencies": {
     "@google-cloud/storage": "^1.0.0",
